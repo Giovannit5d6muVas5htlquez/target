@@ -1,1 +1,1 @@
-# target
+# LinkLoom - Open-source bookmark management tool
