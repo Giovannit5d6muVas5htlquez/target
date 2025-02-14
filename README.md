@@ -3,3 +3,4 @@ Organize, tag, and share your bookmarks with ease.
 Features: Tagging, search, and cross-device syncing.
 Install: Clone with  and run .
 Start: Run  and access at .
+Requirements: Node.js 18.0+, modern browser (Chrome, Firefox).
