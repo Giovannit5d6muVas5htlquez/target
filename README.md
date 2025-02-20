@@ -6,3 +6,4 @@ Start: Run  and access at .
 Requirements: Node.js 18.0+, modern browser (Chrome, Firefox).
 Usage:  to manage bookmarks.
 Contribute: Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+License: MIT License, see [LICENSE](LICENSE) for details.
