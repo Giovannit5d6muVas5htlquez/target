@@ -8,3 +8,4 @@ Usage:  to manage bookmarks.
 Contribute: Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 License: MIT License, see [LICENSE](LICENSE) for details.
 Testing: Run  to execute unit tests.
+FAQ: Sync setup in [sync.md](docs/sync.md).
